@@ -1,0 +1,7 @@
+name: "biol806"
+output_dir: "."
+navbar:
+  title: "Data Science with R for the Life Sciences (BIOL 806)"
+  left:
+    - text: "Syllabus"
+      href: syllabus.html
