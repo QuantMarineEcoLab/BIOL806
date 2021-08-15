@@ -5,5 +5,7 @@ navbar:
   left:
     - text: "Syllabus"
       href: syllabus.html
+    - text: "Schedule"
+      href: schedule.html
 output:
   html_document
