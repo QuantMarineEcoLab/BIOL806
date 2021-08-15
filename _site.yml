@@ -6,6 +6,4 @@ navbar:
     - text: "Syllabus"
       href: syllabus.html
 output:
-  html_document:
-    theme: yeti
-    highlight: textmate
+  html_document
